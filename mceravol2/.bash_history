@@ -152,3 +152,18 @@ ls
 cd ../
 ls
 exit
+ls
+pwd
+cd ../data
+ls
+exit
+ls
+cd /data
+ls
+cd group15
+ls
+pwd
+jupyter notebook --ip 127.0.0.1 --port 6989 --no-browser --allow-root
+exit
+jupyter notebook --ip 127.0.0.1 --port 6989 --no-browser --allow-root
+exit
