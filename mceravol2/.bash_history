@@ -167,3 +167,9 @@ jupyter notebook --ip 127.0.0.1 --port 6989 --no-browser --allow-root
 exit
 jupyter notebook --ip 127.0.0.1 --port 6989 --no-browser --allow-root
 exit
+ls
+jupyter notebook
+exit
+jupyter notebook --ip 127.0.0.1 --port 6989 --no-browser --allow-root
+exit
+exit 
