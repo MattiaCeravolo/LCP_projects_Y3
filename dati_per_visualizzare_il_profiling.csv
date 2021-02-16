@@ -1,5 +1,5 @@
 ﻿CELL;CPU_TIME;WALL_TIME
-data_aquisition;674;2840
+data_acquisition;674;2840
 add_time_detector_head_fpga_col;328;314
 identify_events;729000;730000
 display_info_after_identify_events;1930;1950
